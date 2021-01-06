@@ -60,7 +60,7 @@
     "rollup-plugin-uglify": "6.0.4",
     "serialize-javascript": "5.0.1",
     "ts-jest": "26.4.4",
-    "tslib": "2.0.3",
+    "tslib": "2.1.0",
     "typescript": "4.1.3"
   }
 }
