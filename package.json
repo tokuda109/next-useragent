@@ -52,7 +52,7 @@
     "lodash": "4.17.20",
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "rollup": "2.35.1",
+    "rollup": "2.41.4",
     "rollup-plugin-commonjs": "10.1.0",
     "rollup-plugin-dts": "2.0.1",
     "rollup-plugin-node-resolve": "5.2.0",
